@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "meetupapi"]
 	path = meetupapi
-	url = https://github.com/zacdav/meetupapi
+	url = https://github.com/cran/meetupapi
